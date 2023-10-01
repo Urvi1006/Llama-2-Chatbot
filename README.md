@@ -5,6 +5,7 @@ Steps for installation
 
 Enter these in the termianl to run the chatbot.
 
+python ingest.py (Needs to be done only once at the beginning)
+
 1. pip install -r requirements.txt
-2. python ingest.py
-3. chainlit run model.py -w
+2. chainlit run model.py -w
